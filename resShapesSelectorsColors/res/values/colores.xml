@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Azulito">#3a95b9</color>
+    <color name="Azulito2">#084B8A</color>
+    <color name="Cafe">#373737</color>
+    <color name="casi_blanco">#e5e5e5</color>
+    <color name="blanco">#ffffff</color>
+    <color name="grisTemp">#cdced0</color>
+    <color name="rojo">#ff0000</color>
+    <color name="grisObscuro">#898989</color>
+    <color name="negro">#000000</color>
+    <color name="transparente">#80000000</color>
+</resources>
